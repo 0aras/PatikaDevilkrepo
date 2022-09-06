@@ -11,7 +11,7 @@ Bu repo [Patika Dev](https://www.app.patika.dev) GIT Hub Eğitiminde oluşturdu�
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
 ```bash
-git clone https://github.com/cengizcmataraci/kodluyoruzilkrepo.git
+https://github.com/0aras/PatikaDevilkrepo/edit/main/README.md
 ```
 
 ## Usage
@@ -19,7 +19,7 @@ git clone https://github.com/cengizcmataraci/kodluyoruzilkrepo.git
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
-```linux
+```Windows
 cd kodluyoruzilkrepo
 code .
 ```
